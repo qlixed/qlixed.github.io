@@ -1,0 +1,4 @@
+Sitemap: https://qlixed.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: qlixed.github.io
