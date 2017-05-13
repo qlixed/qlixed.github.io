@@ -7,15 +7,23 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://qlixed.github.io/</loc>
-  <lastmod>2017-05-13T22:15:00Z</lastmod>
+  <lastmod>2017-05-13T22:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://qlixed.github.io/2017/</loc>
+  <lastmod>2017-05-13T22:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://qlixed.github.io/archive.html</loc>
-  <lastmod>2017-05-13T22:15:00Z</lastmod>
+  <lastmod>2017-05-13T22:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://qlixed.github.io/categories/</loc>
-  <lastmod>2017-05-13T22:15:00Z</lastmod>
+  <lastmod>2017-05-13T22:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://qlixed.github.io/categories/primer-post/</loc>
+  <lastmod>2017-05-13T22:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://qlixed.github.io/galleries/</loc>
@@ -24,5 +32,9 @@
  <url>
   <loc>https://qlixed.github.io/listings/</loc>
   <lastmod>2017-05-13T22:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://qlixed.github.io/posts/arrancando/</loc>
+  <lastmod>2017-05-13T22:25:00Z</lastmod>
  </url>
 </urlset>
